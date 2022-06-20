@@ -11,7 +11,6 @@ public extension Array {
     /// Returns an element if exists in given index, otherwise will return `nil`
     ///
     /// - Parameter index: `Int` index
-    ///
     /// - Returns: `Optional` element
     ///
     func getOrNull(_ index: Int) -> Element? {

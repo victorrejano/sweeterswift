@@ -1,3 +1,3 @@
 # SweeterSwift
 
-A description of this package.
+Syntactic sugar extensions for Swift.
